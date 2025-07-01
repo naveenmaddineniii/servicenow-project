@@ -1,3 +1,25 @@
 # servicenow-project
 Streamlining Ticket Assignment for Efficient Support Operations
-```markdown # Streamlining Ticket Assignment for Efficient Support Operations ## Category ServiceNow Application Developer ## ## Skills Utilized - User and Group Management - Flow Designer - ACLs (Access Control Lists) ## Project Description This project focused on implementing an automated ticket routing system on the ServiceNow Platform for ABC Corporation. The goal was to enhance operational efficiency by ensuring accurate ticket assignment to appropriate support teams, thereby reducing resolution delays, improving customer satisfaction, and optimizing resource utilization. ## Key Features and Tasks: - Created Users, Groups, and Roles - Configured Tables - Assigned Roles and Users to Groups, including Certificate Group and Platform Group - Implemented ACLs for access control - Developed Flows in Flow Designer to automate ticket assignment to the Operations Group, Certificate Group, and Platform Group.
+# ServiceNow Administration Virtual Internship Project
+
+## Overview
+This project was completed as part of a virtual internship focused on ServiceNow Administration. The goal was to implement and configure modules like user/group management, flow designer, and access control for ITSM tasks.
+
+## Features
+- User and Group Management
+- Flow Designer Automation
+- Access Control Lists (ACLs)
+- Ticket Routing Automation
+
+## Folder Structure
+- `/docs` - Project documentation
+- `/screenshots` - Output images
+- `/project-files` - Exported ServiceNow configuration or code
+- `/demo` - Project demonstration video
+
+## Demo
+Watch the demo here: [Demo Video](#)
+
+## Author
+Naveen Maddineni
+
