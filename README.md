@@ -18,7 +18,7 @@ This project was completed as part of a virtual internship focused on ServiceNow
 - `/demo` - Project demonstration video
 
 ## Demo
-Watch the demo here: [Demo Video](#https://drive.google.com/file/d/11u31nPtq0VEXHQDcgFzqP7BhUVFAKEH8/view?usp=drive_link)
+Watch the demo here: [ Demo Video: https://drive.google.com/file/d/11u31nPtq0VEXHQDcgFzqP7BhUVFAKEH8/view?usp=drive_link ]
 
 ## Author
 Naveen Maddineni
